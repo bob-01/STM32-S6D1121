@@ -1,4 +1,4 @@
-### STM32 I2c LCD S6D1121 2.0"
+### STM32 LCD S6D1121 2.0"
 
 https://www.youtube.com/watch?v=h1Iup8MnTXo
 
